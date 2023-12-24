@@ -1,2 +1,11 @@
 # Scenarios-of-America
-This mod contains all the scenarios I've made based around the American continent. Needs Latin American Civs mod.
+Current Scenarios:
+- South America V2
+   - Argentina
+   - Bolivia
+   - Brasil
+   - Chile
+   - Colombia
+   - Mexico
+   - Peru
+   - Venezuela
